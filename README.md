@@ -1,6 +1,6 @@
 # CS Undergrad
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, PyTorch, Flask
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
