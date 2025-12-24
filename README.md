@@ -1,47 +1,52 @@
 # CS Undergrad
 
-#### Technical Skills: Python, SQL, PyTorch, Flask
+#### Languages: JavaScript (ES6+), HTML5, CSS3, SQL
+#### Technologies & Tools: React.js, Next.js, Node.js, Express.js, MongoDB, RESTful APIs, JWT Authentication, Git, GitHub, Postman, npm
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Education	 			        		
+- B.Sc., Computer Science and Engineering | United International University at Dhaka (_July 2021 - Oct 2025_)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### LifeLine - Blood Donation
+[Live Link](https://b12-a11-client.web.app/)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Engineered a **Role-Based Access Control (RBAC)** system, defining distinct permissions for **Admins**, **Volunteers**, and
+**Donors**
+- Implemented secure **Firebase Authentication** and **JWT** to protect private routes and manage session security.
+- Integrated **Stripe Payment Gateway** for organizational funding and developed an advanced search filter for blood donors using geolocation data
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![LifeLine](/assets/img/lifeline-blood_donationation_app-low_quality-original.jpg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### PawMart - Pet Supply and Adoption
+[Live Link](https://pawmart-639fe.web.app/pets)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Developed a comprehensive **Pet Adoption & Supply Portal** utilizing a responsive **3-column grid layout** to display
+listings for adoption and products.
+- Implemented secure **Firebase Authentication** with protected routes, ensuring users can only manage their own listings
+and access private order history.
+- Integrated **jsPDF** to generate downloadable PDF reports of user orders and engineered a robust filtering system for
+searching pets by category or name.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![PawMart](/assets/img/pawmart_pet_supply_and_adoptation_original.jpg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Work Experience
+**Undergraduate Teaching Assistant @ United International University (_Jan 2024  - Oct 2025_)**
+- Mentored 50+ students in DSA and C/C++; optimized logic and debugging efficiency via code reviews.
+- Co-developed technical course materials and reinforced core CS concepts through structured support.
+
+**Undergraduate Researcher @ UNPLER Lab (_Nov 2024 - Oct 2025_)**
+- Engineered pipelines for RAG and LLM systems, optimizing labeling for large-scale training.
+- Analyzed Vision-Language Transformers using Python to visualize performance and synthesize data.
+
+## Awards and Certificates
+- **Second Runner Up in Poster Design** in CSE Project Fall 2024 (Course: Final Year Design Project I)- Organized by
+United International University, Dhaka, Bangladesh.
+- **Third Runner Up** in CSE Project Spring 2023 (Course: Advanced Object Oriented Programming Laboratory)- Orga
+nized by United International University, Dhaka, Bangladesh.
+- 100% Scholarship Award for 7 trimesters for achieving placement in the **top 3%** of the department.
+- 50% Scholarship Award for 2 trimesters for achieving placement in the **top 10%** of the department.
+- 25% Scholarship Award for 1 trimester for achieving placement in the **top 15%** of the department
 
 ## Publications
-1. [Mullick, Mohammad Abu Obaida, Nafi Sadman Khan, Ahnaf Tahmid Fahid, Mahin Mahmud, and Raiyan Rahman. "A CNN Based Ensemble Deep Learning Approach for Melanoma Detection." In 2024 IEEE Region 10 Symposium (TENSYMP), pp. 1-6. IEEE, 2024.](https://ieeexplore.ieee.org/abstract/document/10752154)
-
-- [Data Science Blog](https://medium.com/@shawhin)
+1. [Mullick, Mohammad Abu Obaida, **Nafi Sadman Khan**, Ahnaf Tahmid Fahid, Mahin Mahmud, and Raiyan Rahman. "A CNN Based Ensemble Deep Learning Approach for Melanoma Detection." In 2024 IEEE Region 10 Symposium (TENSYMP), pp. 1-6. IEEE, 2024.](https://ieeexplore.ieee.org/abstract/document/10752154)
